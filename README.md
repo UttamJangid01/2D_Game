@@ -14,6 +14,6 @@ The architecture follows an object-oriented design, making it modular and easy t
 - 🖼️ Custom-designed sprite assets: `player_sprites.png`, `enemy01.png`, `stone.png`, etc.
 
 🎥 **Watch the full gameplay demo here:**  
-[![Watch Demo on LinkedIn](https://www.linkedin.com/posts/harsh-jangid-a3093a277_activity-7330467836315725824-yieu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOXmEQBQe-4mvioNevqAH3ZEWW2xcgUWfA)
+https://www.linkedin.com/posts/harsh-jangid-a3093a277_activity-7330467836315725824-yieu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOXmEQBQe-4mvioNevqAH3ZEWW2xcgUWfA
 
 > 🧩 Built entirely using **core Java**, without external game engines or frameworks.
